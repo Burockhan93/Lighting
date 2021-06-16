@@ -1,0 +1,141 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'de' Physical Memory: 8066 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/burak/Unity/Unity2/Youtube-1/Lighting
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+6054
+Successfully changed project path to: C:/Users/burak/Unity/Unity2/Youtube-1/Lighting
+C:/Users/burak/Unity/Unity2/Youtube-1/Lighting
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/burak/Unity/Unity2/Youtube-1/Lighting/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     1976 MB
+    Driver:   27.21.14.5749
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56476
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002193 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.498 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.3 MB.
+System memory in use after: 58.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 2.916900 ms (FindLiveObjects: 0.358600 ms CreateObjectMapping: 0.138700 ms MarkObjects: 2.333600 ms  DeleteObjects: 0.083800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Material/kratos1.OBJ
+  artifactKey: Guid(e87f0b9b74fc75d4ba75ab048a7eb2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/kratos1.OBJ using Guid(e87f0b9b74fc75d4ba75ab048a7eb2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49baf08f078566703c8e10e47847d67d') in 0.039649 seconds
+  Import took 0.042933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.417061 seconds.
+  path: Assets/Material/untitled.obj
+  artifactKey: Guid(c8e4169808268f748a1fe8878907738d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/untitled.obj using Guid(c8e4169808268f748a1fe8878907738d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41c11465e7518edde7471abf7a47ed7') in 0.161337 seconds
+  Import took 0.163955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.534878 seconds.
+  path: Assets/Material/New Lighting Settings.lighting
+  artifactKey: Guid(1b661cb3f9985f8489942101120d7e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Lighting Settings.lighting using Guid(1b661cb3f9985f8489942101120d7e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122f01ca5d95fd543964d577dc0057be') in 0.008260 seconds
+  Import took 0.011939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 256.678088 seconds.
+  path: Assets/Material/InSzene 1.mat
+  artifactKey: Guid(5b024e5dd807f1947b011913cf19a928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/InSzene 1.mat using Guid(5b024e5dd807f1947b011913cf19a928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25926ef2179ab55a03f12b119b696368') in 0.022481 seconds
+  Import took 0.025075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Material/InSzene 2.mat
+  artifactKey: Guid(bbedfc47841210242929a347b79b4966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/InSzene 2.mat using Guid(bbedfc47841210242929a347b79b4966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf75fb5fc8c0bc70fb77d774d9e58e15') in 0.017251 seconds
+  Import took 0.019905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.324807 seconds.
+  path: Assets/Material/New Material 1.mat
+  artifactKey: Guid(49bcce4913fb87949bf21eb2b965e6e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Material 1.mat using Guid(49bcce4913fb87949bf21eb2b965e6e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ff3a7d84ba06e129ce773f5f59b0ae') in 0.015456 seconds
+  Import took 0.018316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 191.171845 seconds.
+  path: Assets/Material/New Material 2.mat
+  artifactKey: Guid(2a3825250e61ae94bb2fdbb54917936c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Material 2.mat using Guid(2a3825250e61ae94bb2fdbb54917936c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96f4203f623f20a7b1b124712e3712b6') in 0.023052 seconds
+  Import took 0.025526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1379.913391 seconds.
+  path: Assets/Material/New Material 2.mat
+  artifactKey: Guid(2a3825250e61ae94bb2fdbb54917936c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Material 2.mat using Guid(2a3825250e61ae94bb2fdbb54917936c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f020e087b5a43e9f9b0d89e340f1cfcc') in 0.014225 seconds
+  Import took 0.016915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Material/New Material.mat
+  artifactKey: Guid(fb292b6b7a7a99f42b1656a08f65100c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Material.mat using Guid(fb292b6b7a7a99f42b1656a08f65100c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4a502153c22ff31757393bf348e26aa') in 0.013252 seconds
+  Import took 0.015439 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -1,0 +1,344 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'de' Physical Memory: 8066 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/burak/Unity/Unity2/Youtube-1/Lighting
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+1067
+Successfully changed project path to: C:/Users/burak/Unity/Unity2/Youtube-1/Lighting
+C:/Users/burak/Unity/Unity2/Youtube-1/Lighting
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/burak/Unity/Unity2/Youtube-1/Lighting/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     1976 MB
+    Driver:   27.21.14.5749
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56772
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003748 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.176 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001825 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.795 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.2 MB.
+System memory in use after: 58.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1563.
+Total: 2.161500 ms (FindLiveObjects: 0.446200 ms CreateObjectMapping: 0.237500 ms MarkObjects: 1.406000 ms  DeleteObjects: 0.070700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Material/kratos1.OBJ
+  artifactKey: Guid(e87f0b9b74fc75d4ba75ab048a7eb2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/kratos1.OBJ using Guid(e87f0b9b74fc75d4ba75ab048a7eb2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2f5aa99930573f7d5e885856fe16fd') in 0.595335 seconds
+  Import took 0.598745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 295.318437 seconds.
+  path: Assets/LightScript.cs
+  artifactKey: Guid(4f9c3e66512825346b85ba60cce774f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LightScript.cs using Guid(4f9c3e66512825346b85ba60cce774f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0bd18b98501a3fd3663caf495b90bd0') in 0.015539 seconds
+  Import took 0.018440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.717343 seconds.
+  path: Assets/LightScript.cs
+  artifactKey: Guid(4f9c3e66512825346b85ba60cce774f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LightScript.cs using Guid(4f9c3e66512825346b85ba60cce774f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3209489087acff8e287100ad0dbfbe7d') in 0.003809 seconds
+  Import took 0.023987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.855348 seconds.
+  path: Assets/LightScript.cs
+  artifactKey: Guid(4f9c3e66512825346b85ba60cce774f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LightScript.cs using Guid(4f9c3e66512825346b85ba60cce774f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851a977e96d3ca563a1af798d2aad076') in 0.003407 seconds
+  Import took 0.006606 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001601 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.141 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 2.227500 ms (FindLiveObjects: 0.215300 ms CreateObjectMapping: 0.077100 ms MarkObjects: 1.861100 ms  DeleteObjects: 0.072600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 254.578504 seconds.
+  path: Assets/Material/InSzene.mat
+  artifactKey: Guid(aca408474b235864fac8a3c8b0d54f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/InSzene.mat using Guid(aca408474b235864fac8a3c8b0d54f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d4f518801a39bae25faa25cb407885') in 0.077311 seconds
+  Import took 0.080195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1861.910072 seconds.
+  path: Assets/Scenes/Kapali Alan/LightingData.asset
+  artifactKey: Guid(55f1bac2103c7c8438a81cc51f2f825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/LightingData.asset using Guid(55f1bac2103c7c8438a81cc51f2f825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6be1c2db5c9123d4e32b9a7f5cd6627') in 0.020866 seconds
+  Import took 0.040716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-4_comp_light.exr
+  artifactKey: Guid(b786941efb7de824b9e4458627d2052e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-4_comp_light.exr using Guid(b786941efb7de824b9e4458627d2052e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12fcefe60ec25cd875e3012834553623') in 0.089891 seconds
+  Import took 0.092117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-2_comp_light.exr
+  artifactKey: Guid(7a77afcae18788b46b08ac29b84895cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-2_comp_light.exr using Guid(7a77afcae18788b46b08ac29b84895cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5319de6f01159cdbc0045937bcdb0996') in 0.020664 seconds
+  Import took 0.022849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-3_comp_light.exr
+  artifactKey: Guid(5905a3a44cb17e24b9d203b8cd3d0402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-3_comp_light.exr using Guid(5905a3a44cb17e24b9d203b8cd3d0402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4b49253c17bc6d7cae7b4d05171a35') in 0.017614 seconds
+  Import took 0.020121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Scenes/Kapali Alan/LightingData.asset
+  artifactKey: Guid(55f1bac2103c7c8438a81cc51f2f825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/LightingData.asset using Guid(55f1bac2103c7c8438a81cc51f2f825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6be1c2db5c9123d4e32b9a7f5cd6627') in 0.003766 seconds
+  Import took 0.006231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-0_comp_dir.png
+  artifactKey: Guid(b432f83644ac6a34bb18dda019f7f105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-0_comp_dir.png using Guid(b432f83644ac6a34bb18dda019f7f105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21723d6998bb38bfdb8064c8169c337c') in 0.024388 seconds
+  Import took 0.027299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-2_comp_dir.png
+  artifactKey: Guid(30563d94c731e55429bcbfb596c9c2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-2_comp_dir.png using Guid(30563d94c731e55429bcbfb596c9c2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6a50cba50f01db025175fb85967c9c') in 0.012910 seconds
+  Import took 0.015806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-6_comp_dir.png
+  artifactKey: Guid(b62925ae41a2b4245af5b13b22b8a526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-6_comp_dir.png using Guid(b62925ae41a2b4245af5b13b22b8a526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9043f4963e56703f034a015cd0b05b6f') in 0.014551 seconds
+  Import took 0.017474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-3_comp_dir.png
+  artifactKey: Guid(45e15063e9f4c0d49bfc19699dc28665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-3_comp_dir.png using Guid(45e15063e9f4c0d49bfc19699dc28665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b77a656f8dbc7c6bac6f9f800945590') in 0.016220 seconds
+  Import took 0.019567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-1_comp_dir.png
+  artifactKey: Guid(828dc60ce89dfb7498d6eedc0989b20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-1_comp_dir.png using Guid(828dc60ce89dfb7498d6eedc0989b20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be705ffda599b66c9ca9ad2022af79b') in 0.015470 seconds
+  Import took 0.018026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Scenes/Kapali Alan/ReflectionProbe-0.exr
+  artifactKey: Guid(bc424be138a3c354dbeea37dd5bb4972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/ReflectionProbe-0.exr using Guid(bc424be138a3c354dbeea37dd5bb4972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e99db92bc38d3fdad612c7821aafbf4') in 0.040599 seconds
+  Import took 0.042919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-1_comp_light.exr
+  artifactKey: Guid(ffba19aa6fb906f40b8181eacd47e207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-1_comp_light.exr using Guid(ffba19aa6fb906f40b8181eacd47e207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37cf0c7c588ccafc86939512ae31083') in 0.016226 seconds
+  Import took 0.019370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-5_comp_light.exr
+  artifactKey: Guid(e46f57de0c142004c9c7b6f6010154b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-5_comp_light.exr using Guid(e46f57de0c142004c9c7b6f6010154b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c6d2f3ebaba9106858e338c2de872f') in 0.013503 seconds
+  Import took 0.016168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-7_comp_dir.png
+  artifactKey: Guid(ef49f94471aa2124b8c805d6d353a052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-7_comp_dir.png using Guid(ef49f94471aa2124b8c805d6d353a052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262af733e86e7f0e8da1744d6b95d2e8') in 0.011977 seconds
+  Import took 0.014301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-5_comp_dir.png
+  artifactKey: Guid(477ca7af3b60e8e4493210724eb3d4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-5_comp_dir.png using Guid(477ca7af3b60e8e4493210724eb3d4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ade71551d52ad30783c08a0a497a4be') in 0.014309 seconds
+  Import took 0.016865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-4_comp_dir.png
+  artifactKey: Guid(87947c0d4c1806d44ad553ccea5439d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-4_comp_dir.png using Guid(87947c0d4c1806d44ad553ccea5439d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32a35f0e9e06628e4825a7150fe256c') in 0.013005 seconds
+  Import took 0.015273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-6_comp_light.exr
+  artifactKey: Guid(3bb1e82db55d85f4bbe160082dc5c323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-6_comp_light.exr using Guid(3bb1e82db55d85f4bbe160082dc5c323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a81420bf73b482bc3e32edbf2c4ad22') in 0.013603 seconds
+  Import took 0.016311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Scenes/Kapali Alan/Lightmap-7_comp_light.exr
+  artifactKey: Guid(868c97681e81d31468d3a9681bac5405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan/Lightmap-7_comp_light.exr using Guid(868c97681e81d31468d3a9681bac5405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc7d8237b422bd2bd31e0a005feee715') in 0.013156 seconds
+  Import took 0.015031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.510719 seconds.
+  path: Assets/Scenes/Kapali Alan
+  artifactKey: Guid(e9eaa37dda9c62642be81d083051b2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Kapali Alan using Guid(e9eaa37dda9c62642be81d083051b2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da44316869a30bd2e3799dcba628161') in 0.008793 seconds
+  Import took 0.011471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 252.239664 seconds.
+  path: Assets/Material/New Lighting Settings.lighting
+  artifactKey: Guid(1b661cb3f9985f8489942101120d7e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Lighting Settings.lighting using Guid(1b661cb3f9985f8489942101120d7e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32089a7b06e934b61e05e450fee9af66') in 0.010233 seconds
+  Import took 0.013307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 563.431990 seconds.
+  path: Assets/Material/InSzene 1.mat
+  artifactKey: Guid(5b024e5dd807f1947b011913cf19a928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/InSzene 1.mat using Guid(5b024e5dd807f1947b011913cf19a928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64ea80b9175c89eb6b19a28f4f971c3d') in 0.026854 seconds
+  Import took 0.029403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Material/InSzene.mat
+  artifactKey: Guid(aca408474b235864fac8a3c8b0d54f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/InSzene.mat using Guid(aca408474b235864fac8a3c8b0d54f12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02f3abf0839be9a7aa2cc4eb99c4787') in 0.013331 seconds
+  Import took 0.015585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.443777 seconds.
+  path: Assets/Material/InSzene 2.mat
+  artifactKey: Guid(bbedfc47841210242929a347b79b4966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/InSzene 2.mat using Guid(bbedfc47841210242929a347b79b4966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9c9c9f7ef6b360c5aef56cfcdd9bfe') in 0.014205 seconds
+  Import took 0.016126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.716922 seconds.
+  path: Assets/Material/New Lighting Settings.lighting
+  artifactKey: Guid(1b661cb3f9985f8489942101120d7e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Lighting Settings.lighting using Guid(1b661cb3f9985f8489942101120d7e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122f01ca5d95fd543964d577dc0057be') in 0.004272 seconds
+  Import took 0.006674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.753014 seconds.
+  path: Assets/Material/New Lighting Settings.lighting
+  artifactKey: Guid(1b661cb3f9985f8489942101120d7e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Lighting Settings.lighting using Guid(1b661cb3f9985f8489942101120d7e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12daece3cf7633c9026657fed3126bc1') in 0.003063 seconds
+  Import took 0.005010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006029 seconds.
+  path: Assets/Material/InSzene 1.mat
+  artifactKey: Guid(5b024e5dd807f1947b011913cf19a928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/InSzene 1.mat using Guid(5b024e5dd807f1947b011913cf19a928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8864eb25956aadb3e3c103c911e4659f') in 0.013126 seconds
+  Import took 0.015110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Material/InSzene 3.mat
+  artifactKey: Guid(c597e89be9008ae40bee30ace792219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/InSzene 3.mat using Guid(c597e89be9008ae40bee30ace792219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a5c54d2aea4fa351825e34ba7c4b89') in 0.013857 seconds
+  Import took 0.016191 seconds .
+
